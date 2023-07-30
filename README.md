@@ -1,1 +1,4 @@
-# Tsp-with-aco
+## Tsp problem with aco
+The algorithm developed for the Traveling Salesman Problem (TSP) with 15 cities combines genetic operators and local search techniques. Although it found a solution with a total distance of 308, slightly higher than the known optimal solution of 291, further refinements in parameter settings and local search methods may lead to improved results. The algorithm's potential to handle larger instances of the TSP demonstrates its competitiveness as a viable approach for tackling more complex routing problems.
+## Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
